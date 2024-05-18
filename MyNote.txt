@@ -1,5 +1,4 @@
 hello
 welcome to my project
 internetapplications
-goodbye
 end.
